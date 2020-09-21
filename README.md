@@ -1,14 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-*Italic* This is SH1MOT4KU's readme page.
-**Bold** Yoroshiku Onegaishimasu.
+*This is SH1MOT4KU's readme page.*
+**Yoroshiku Onegaishimasu.**
 
-# Who Am I?
+### Who Am I?
 
-![Image](http://url/a.png)
+![Image](https://drive.google.com/file/d/1oZlRFsaQUu4rjpc0dbXNDo9gHcrF-aIq/view)
 [Link](http://sh1mot4ku.mystrikingly.com)
 
-# What Am I doing?
+### What Am I doing?
 
 I am the CEO of LRAOUGH, this company supports for Global Challenger especially Engineers and Designers who has excellent tech skills.
 
