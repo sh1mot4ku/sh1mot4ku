@@ -5,7 +5,7 @@
 
 ### Who Am I?
 
-![Image](https://github.com/sh1mot4ku/li_pf.git)
+![Image](https://github.com/sh1mot4ku/li_pf.git/LI_PF.jpg)
 [Link](http://sh1mot4ku.mystrikingly.com)
 
 ### What Am I doing?
